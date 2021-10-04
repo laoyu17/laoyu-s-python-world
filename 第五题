@@ -1,0 +1,31 @@
+import requests
+import re
+from lxml import etree
+
+url = 'https://sise.uestc.edu.cn/xwtz/tzgg/yb.htm'
+
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36'
+}
+
+page_text = requests.get(url=url,headers=headers).text
+string = page_text.encode('iso-8859-1')
+tree = etree.HTML(string)
+title_list = tree.xpath('/html/body/div[2]/div[2]/div[2]/div/a')
+# print(title_list)
+# print(title_list)# print(title_list)/html/body/div[2]/div[2]/div[2]
+
+for title in title_list:
+
+    trul_title = title.xpath('./div/h2/text()')[0]
+    time = title.xpath('./div/span/text()')[0]
+    href = title.xpath('./text()')
+    print(trul_title)
+    print(time)
+
+
+ex = '<a href="..\/..\/info(.*?)">'
+href_list = re.findall(ex,page_text)
+for href in href_list:
+    trul_url = 'https://sise.uestc.edu.cn/info' + href
+    print(trul_url)
