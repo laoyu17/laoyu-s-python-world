@@ -7,27 +7,8 @@ s11观赛链接(https://lpl.qq.com/es/worlds/2021/)
 
 害搁那Markdown呢，我徒弟呢！
 LOL宇宙（https://yz.lol.qq.com/zh_CN/）
-!（https://user-images.githubusercontent.com/90687482/136638281-e99758a8-0d12-4bcc-82c6-0af4f14c508b.png）
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/90687482/136638569-ea7be062-a8e9-47ff-a039-72f61e497ee6.png)
+![image](https://user-images.githubusercontent.com/90687482/136638587-0ab9ec32-b8e5-4316-9c69-2ad3e7286165.png)
+![image](https://user-images.githubusercontent.com/90687482/136638550-da502824-f32d-4107-8e73-1a20dee2afa5.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laoyu17/laoyu-s-python-world/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
