@@ -1,16 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to LOL Pages
 
-You can use the [editor on GitHub](https://github.com/laoyu17/laoyu-s-python-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+为什么不问问神奇海螺呢？
+s11观赛链接(https://lpl.qq.com/es/worlds/2021/)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+害搁那Markdown呢，我徒弟呢！
+LOL宇宙（https://yz.lol.qq.com/zh_CN/）
 # Header 1
 ## Header 2
 ### Header 3
@@ -26,7 +22,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
