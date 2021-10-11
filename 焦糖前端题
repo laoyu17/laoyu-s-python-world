@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>laoyudegushi12138</title>
+</head>
+<style>
+    img{
+        display: block;
+    }
+    h1{
+        text-align: center;
+    }
+    body{
+        background-image:url("bg2.jpg");
+        color: white;
+    }
+</style>
+<body>
+    <h1>laoyu'world 12138</h1>
+    <h2>自我介绍</h2>
+    <p>我叫余博，来自四川南充，一个川东北城市。
+       <br>
+       南充是一个干燥炎热的城市，它有粗线牛肉米粉。粗细合适而又富有嚼劲的米线线条伴随多种佐料的汤汁辅以牛肉的肉香略过你舌头的每一个味蕾。
+       <br>
+       吮下筷子上的最后一滴汤汁的你只会想，吃这碗粉是对的！
+       <br>
+       我是一个类似南充米粉的人，我的幽默总会感染周围人，我的热情总会鼓舞周围人,我是一个能为他人带来开心的人。
+       <br>
+       我性情随和(反正就是很有意思，说话特好玩)
+       <br>
+       我爱好运动：篮球、乒乓球、跑步。我爱好游戏：英雄联盟、骑砍。
+       <br>
+       
+        
+        </p><br>
+        <h2>图片我就来点英雄联盟的图片</h2>
+        <img src="https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f11f3a292df5e0fee5b8aa425a6034a85fdf72d4.jpg"width="600"height="400">
+        <img src="1.jpg"
+        width="300" height="400" >
+        <img src="2.jpg" width="600" height="800">
+        <img src="3.jpg" width="600" height="800">
+        <img src="4.jpg" width="600" height="800">
+        <img src="5.jpg" width="600" height="800">
+         <h2>学习历程
+         1.点开提示里面的教程
+         2.开始背
+         3.开写
+         4.开交
+         
+         写网页（txt）的html文件，用浏览器打开
+         html文件都有一个基本代码模板
+         html语言是一种网页“编辑”语言
+         html不用区分字母的大小写   
+         但是xhtml拥有的html标记需要完全的小写
+         在VSC里新建一个.html格式的文件
+         或者.txt和.html文档
+         </h2>
+         
+         
+        
+
+    
+</body>
+</html>
