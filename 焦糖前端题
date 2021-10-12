@@ -12,7 +12,7 @@
         text-align: center;
     }
     body{
-        background-image:url("https://img.zcool.cn/community/01e6d75e781ee5a80120a8953f9735.png");
+        background-image:url("12.jfif");
         color: white;
     }
 </style>
@@ -35,10 +35,10 @@
         
         </p><br>
         <h2>图片我就来点英雄联盟的图片</h2>
-        <img src="https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f11f3a292df5e0fee5b8aa425a6034a85fdf72d4.jpg"width="600"height="400">
+        <img src="2.jpg"width="600"height="400">
 
-        <img src="https://pica.zhimg.com/80/v2-3d3afcc173ebe0fad4823541ae6d0cb4_720w.jpg?source=1940ef5c" width="600" height="800">
-        <img src="https://pic2.zhimg.com/80/v2-403f065373e56bb0bad9e0cc43843132_720w.jpg?source=1940ef5c" width="600" height="800">
+        <img src="13.jpg" width="600" height="400">
+        <img src="3.jpg" width="600" height="400">
 
          <h2>学习历程
          1.点开提示里面的教程
@@ -53,6 +53,7 @@
          但是xhtml拥有的html标记需要完全的小写
          在VSC里新建一个.html格式的文件
          或者.txt和.html文档
+  
          </h2>
          
          
@@ -61,3 +62,4 @@
     
 </body>
 </html>
+
